@@ -2,8 +2,8 @@
 
 https://minjoon97.github.io/portfolioSite/
 
-### 🦾 Skills
-**🧑‍💻 Dev**
+### Skills
+**💻 Dev**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -13,7 +13,6 @@ https://minjoon97.github.io/portfolioSite/
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-brown.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 **🛠️ Infra**
 
