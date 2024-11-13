@@ -14,7 +14,7 @@ https://minjoon97.github.io/portfolioSite/
 ![Zustand](https://img.shields.io/badge/Zustand-brown.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
-**🛠️ Infra**
+**🛠️ Infra & Tools**
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -22,7 +22,7 @@ https://minjoon97.github.io/portfolioSite/
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
-**👓 Tools**
+**👓 Others**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
