@@ -11,7 +11,7 @@ https://minjoon97.github.io/portfolioSite/
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-brown.svg?&style=for-the-badge&logo=npm&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-brown.svg?&style=for-the-badge&logo=Zustand&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
 **🛠️ Infra & Tools**
