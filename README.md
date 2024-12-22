@@ -21,6 +21,8 @@ https://minjoon97.github.io/portfolioSite/
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 
 **👓 Others**
 
