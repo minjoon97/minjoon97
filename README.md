@@ -1,3 +1,3 @@
-## MINJOON97 🌊⛱🌅🏝🏖
+## 710MINJOON 🌊⛱🌅🏝🏖
 
 https://minjoon97.github.io/portfolioSite/
